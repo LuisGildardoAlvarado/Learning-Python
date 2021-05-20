@@ -16,7 +16,7 @@ diadescanso = False
 if(vacaciones or diadescanso):
     print("puedes ir al parque")
 else:
-    print("te la jalas todo el dia")
+    print("debes trabajar")
 
 #not:
 print(not(vacaciones))
